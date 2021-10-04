@@ -1,0 +1,12 @@
+78123,La Creame Riche,Dior,10000,Dry,Unavailable,Cream
+4673,Soft Moisturising Cream,Nivea,500,Dry,Unavailable,Cream
+98776,Frangipani Gel,Nivea,400,Dry,Unavailable,Gel
+09876,Men Sensetive Cooling Lotion,Nivea,800,any,Available,Cream
+67889,Joues Contranste Powder Blush,Chanel,8000,Oily,Unavailable,Powder
+12243,Studio Fix Powder Plus Foundation,Mac,7000,Oily,Unavailable,Powder
+0987,L'OR DE VIE,Dior,7000,Dry,Unavailable,Cream
+789234,Dior Prestige,Dior,8000,Dry,Unavailable,Cream
+2451,Matte Vaporisateur Matifiant,Mac,2900,any,Available,Deodrant
+837645,Gabrielle Body Cream,Chanel,8500,any,Unavailable,Cream
+65829,N 5 perfume,Chanel,8900,Dry,Unavailable,Deodrant
+51718,Boy De Chanel,Chanel,9000,any,Available,Gel
